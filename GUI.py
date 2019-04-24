@@ -78,7 +78,6 @@ Exit = Button(win, text = " Exit",
               width = 12).pack(anchor = "center")
 
 
-#close()
 
 
 
